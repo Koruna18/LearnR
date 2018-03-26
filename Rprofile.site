@@ -20,3 +20,6 @@
 # (This would need the fortunes package to be installed.)
 #  if (interactive()) 
 #    fortunes::fortune()
+
+# Change default package location - RG Custom
+.libPaths("C:/RMaster/R/win-library/3.4")
