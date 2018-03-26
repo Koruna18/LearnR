@@ -20,5 +20,3 @@
 # (This would need the fortunes package to be installed.)
 #  if (interactive()) 
 #    fortunes::fortune()
-
-Sys.setenv(R_USER="C:/RMaster")
