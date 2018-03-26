@@ -1,1 +1,2 @@
 R_USER="C:/RMaster"
+.libPaths("C:/RMaster/R/win-library/3.4")
