@@ -21,3 +21,4 @@
 #  if (interactive()) 
 #    fortunes::fortune()
 
+Sys.setenv(R_USER="C:\RMaster")
